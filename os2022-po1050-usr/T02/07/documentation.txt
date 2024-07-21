@@ -1,0 +1,55 @@
+Čítanie po 1000 znakov zo súboru až na jeho koniec
+obsah súboru infile
+Šestica on-line nástrojov, ktoré fotografie textu dokážu pretvoriť na textový súbor a šetria tak čas strávený prepisovaním.
+
+Napriek tomu, že v dnešnej dobe nájdeme na internete takmer všetko, existuje množstvo dokumentov, ktoré jednoducho nenájdete. Ide napríklad o zmluvy, či ľubovoľné texty ktoré niekde máte uložené v papierovej podobe a potrebujete ich previesť do digitálnej, upraviteľnej podoby.
+
+Ak potrebujete text na papieri dostať do textového editoru, vždy je možné siahnuť po brute-force metóde, čiže ručnom prepisovaní. Výhody, alebo skôr nevýhody sú jasné každému, kto podobnú činnosť niekedy vykonával. Najjednoduchším spôsobom, ako z blata von je prenechať prácu iným. V prípade dostupnosti nenáročného a ochotného asistenta to nie je problém. Čo však robiť, ak vás tlačí čas? V tomto prípade je vhodné nájsť vhodný OCR softvér, naskenovať, alebo vyrobiť kvalitnú fotografiu dokumentu a dúfať. OCR softvér však treba nájsť, inštalovať, v množstve prípadov aj zaplatiť nemalú čiastku za kúpu a často sa nevyhneme ani konfigurácii. Ak potrebujete iba rýchly sken niekoľkých stránok, prinášame vám zoznam šiestich internetových stránok, ktoré ponúkajú prevod fotografií na text zadarmo. BANNER300 
+
+Online OCR
+Server Online OCR ponúka konverziu aj bez akejkoľvek registrácie, s obmedzením veľkosti súboru na 1 MB a nemožnosťou výberu jazyku dokumentu. Ak teda chcete skenovať slovenské texty, registrácii sa nevyhnete – server má v tom prípade problémy s diakritikou. Taktiež, anonymná konverzia potrebuje podstatne kvalitnejší zdrojový súbor ako registrovaná verzia. Po registrácii, pri ktorej je potrebné zadať emailovú adresu zistíte, že vám zostáva iba 5 dokumentov, ktoré môžete skenovať zadarmo. Zvýšila sa aj maximálna veľkosť súboru na 20 MB. Ďalšie kredity pre skenovanie je potrebné zakúpiť. Vynikajúcim detailom je upload ZIP archívov s obrázkami na konverziu, ktoré si server sám rozbalí, skonvertuje a ponúkne na stiahnutie. 
+
+
+Výpis programu:
+./a.out 
+Enter name of input file: infile
+Šestica on-line nástrojov, ktoré fotografie textu dokážu pretvoriť na textový súbor a šetria tak čas strávený prepisovaním.
+
+Napriek tomu, že v dnešnej dobe nájdeme na internete takmer všetko, existuje množstvo dokumentov, ktoré jednoducho nenájdete. Ide napríklad o zmluvy, či ľubovoľné texty ktoré niekde máte uložené v papierovej podobe a potrebujete ich previesť do digitálnej, upraviteľnej podoby.
+
+Ak potrebujete text na papieri dostať do textového editoru, vždy je možné siahnuť po brute-force metóde, čiže ručnom prepisovaní. Výhody, alebo skôr nevýhody sú jasné každému, kto podobnú činnosť niekedy vykonával. Najjednoduchším spôsobom, ako z blata von je prenechať prácu iným. V prípade dostupnosti nenáročného a ochotného asistenta to nie je problém. Čo však robiť, ak vás tlačí čas? V tomto prípade je vhodné nájsť vhodný OCR softvér, naskenovať, alebo vyrobiť kvalitnú fotografiu dokumentu a dúfať. OCR softvér však treba nájsť, inštalovať, v množstve prípadov aj zaplatiť nemalú čiastku za kúpu a často sa nevyhneme ani konfigurácii. Ak potrebujete iba rýchly sken niekoľkých stránok, prinášame vám zoznam šiestich internetových stránok, ktoré ponúkajú prevod fotografií na text zadarmo. BANNER300 
+
+Online OCR
+Server Online OCR ponúka konverziu aj bez akejkoľvek registrácie, s obmedzením veľkosti súboru na 1 MB a nemožnosťou výberu jazyku dokumentu. Ak teda chcete skenovať slovenské texty, registrácii sa nevyhnete – server má v tom prípade problémy s diakritikou. Taktiež, anonymná konverzia potrebuje podstatne kvalitnejší zdrojový súbor ako registrovaná verzia. Po registrácii, pri ktorej je potrebné zadať emailovú adresu zistíte, že vám zostáva iba 5 dokumentov, ktoré môžete skenovať zadarmo. Zvýšila sa aj maximá
+
+
+
+
+
+Čítanie po 1000 znakov zo súboru až na jeho koniec po presmerovaní vstupu a výstupu
+obsah súboru infile
+Šestica on-line nástrojov, ktoré fotografie textu dokážu pretvoriť na textový súbor a šetria tak čas strávený prepisovaním.
+
+Napriek tomu, že v dnešnej dobe nájdeme na internete takmer všetko, existuje množstvo dokumentov, ktoré jednoducho nenájdete. Ide napríklad o zmluvy, či ľubovoľné texty ktoré niekde máte uložené v papierovej podobe a potrebujete ich previesť do digitálnej, upraviteľnej podoby.
+
+Ak potrebujete text na papieri dostať do textového editoru, vždy je možné siahnuť po brute-force metóde, čiže ručnom prepisovaní. Výhody, alebo skôr nevýhody sú jasné každému, kto podobnú činnosť niekedy vykonával. Najjednoduchším spôsobom, ako z blata von je prenechať prácu iným. V prípade dostupnosti nenáročného a ochotného asistenta to nie je problém. Čo však robiť, ak vás tlačí čas? V tomto prípade je vhodné nájsť vhodný OCR softvér, naskenovať, alebo vyrobiť kvalitnú fotografiu dokumentu a dúfať. OCR softvér však treba nájsť, inštalovať, v množstve prípadov aj zaplatiť nemalú čiastku za kúpu a často sa nevyhneme ani konfigurácii. Ak potrebujete iba rýchly sken niekoľkých stránok, prinášame vám zoznam šiestich internetových stránok, ktoré ponúkajú prevod fotografií na text zadarmo. BANNER300 
+
+Online OCR
+Server Online OCR ponúka konverziu aj bez akejkoľvek registrácie, s obmedzením veľkosti súboru na 1 MB a nemožnosťou výberu jazyku dokumentu. Ak teda chcete skenovať slovenské texty, registrácii sa nevyhnete – server má v tom prípade problémy s diakritikou. Taktiež, anonymná konverzia potrebuje podstatne kvalitnejší zdrojový súbor ako registrovaná verzia. Po registrácii, pri ktorej je potrebné zadať emailovú adresu zistíte, že vám zostáva iba 5 dokumentov, ktoré môžete skenovať zadarmo. Zvýšila sa aj maximálna veľkosť súboru na 20 MB. Ďalšie kredity pre skenovanie je potrebné zakúpiť. Vynikajúcim detailom je upload ZIP archívov s obrázkami na konverziu, ktoré si server sám rozbalí, skonvertuje a ponúkne na stiahnutie. 
+
+
+Výpis programu:
+./a.out <infile >outfile
+0:Success
+
+
+
+obsah súboru outfile po vykonaní programu
+Šestica on-line nástrojov, ktoré fotografie textu dokážu pretvoriť na textový súbor a šetria tak čas strávený prepisovaním.
+
+Napriek tomu, že v dnešnej dobe nájdeme na internete takmer všetko, existuje množstvo dokumentov, ktoré jednoducho nenájdete. Ide napríklad o zmluvy, či ľubovoľné texty ktoré niekde máte uložené v papierovej podobe a potrebujete ich previesť do digitálnej, upraviteľnej podoby.
+
+Ak potrebujete text na papieri dostať do textového editoru, vždy je možné siahnuť po brute-force metóde, čiže ručnom prepisovaní. Výhody, alebo skôr nevýhody sú jasné každému, kto podobnú činnosť niekedy vykonával. Najjednoduchším spôsobom, ako z blata von je prenechať prácu iným. V prípade dostupnosti nenáročného a ochotného asistenta to nie je problém. Čo však robiť, ak vás tlačí čas? V tomto prípade je vhodné nájsť vhodný OCR softvér, naskenovať, alebo vyrobiť kvalitnú fotografiu dokumentu a dúfať. OCR softvér však treba nájsť, inštalovať, v množstve prípadov aj zaplatiť nemalú čiastku za kúpu a často sa nevyhneme ani konfigurácii. Ak potrebujete iba rýchly sken niekoľkých stránok, prinášame vám zoznam šiestich internetových stránok, ktoré ponúkajú prevod fotografií na text zadarmo. BANNER300 
+
+Online OCR
+Server Online OCR ponúka konverziu aj bez akejkoľvek registrácie, s obmedzením veľkosti súboru na 1 MB a nemožnosťou výberu jazyku dokumentu. Ak teda chcete skenovať slovenské texty, registrácii sa nevyhnete – server má v tom prípade problémy s diakritikou. Taktiež, anonymná konverzia potrebuje podstatne kvalitnejší zdrojový súbor ako registrovaná verzia. Po registrácii, pri ktorej je potrebné zadať emailovú adresu zistíte, že vám zostáva iba 5 dokumentov, ktoré môžete skenovať zadarmo. Zvýšila sa aj maximálna veľkosť súboru na 20 MB. Ďalšie kredity pre skenovanie je potrebné zakúpiť. Vynikajúcim detailom je upload ZIP archívov s obrázkami na konverziu, ktoré si server sám rozbalí, skonvertuje a ponúkne na stiahnutie. 

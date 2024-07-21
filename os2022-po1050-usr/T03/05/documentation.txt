@@ -1,0 +1,11 @@
+obsah súboru outfile pred spustením programu
+Skuska programu.
+
+
+Uprava suboru infile na ktorý ukazuje súbor outfile na koniec súboru infile san napíse text "Martin"
+Výpis programu:
+./a.out infile
+
+obsah súboru outfile po spustení programu
+Skuska programu.
+Martin

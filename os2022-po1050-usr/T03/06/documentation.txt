@@ -1,0 +1,15 @@
+Výpis obsahu pričinka pomocou ls -l
+ls -l
+total 32
+-rwxr-xr-x 1 marti marti 16376 Oct 16 12:58 a.out
+-rw-r--r-- 1 marti marti   382 Oct 16 12:55 documentation.txt
+drwxr-xr-x 2 marti marti  4096 Oct 16 12:57 indir
+-rw-r--r-- 1 marti marti    17 Oct 16 12:55 infile
+-rw-r--r-- 1 marti marti   696 Oct 16 12:58 main.c
+
+Výpis programu
+./a.out indir/
+indir/ je adresár
+
+./a.out infile
+infile nie je adresár

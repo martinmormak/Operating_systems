@@ -1,0 +1,6 @@
+Výpis programu výpis čísla i-node
+./a.out infile 
+66320
+
+./a.out main.c 
+66321

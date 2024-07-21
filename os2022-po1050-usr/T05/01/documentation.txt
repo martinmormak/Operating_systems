@@ -1,0 +1,1 @@
+Aktuálne prostredie je možné zobraziť pomocou príkazu env.

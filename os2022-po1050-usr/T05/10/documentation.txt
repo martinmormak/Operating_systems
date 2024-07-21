@@ -1,0 +1,6 @@
+./a.out 
+Aktuálny priečinok: /home/marti/os2022-po1050-usr/T05/10
+Priečinok po zmene v child: /home/marti/os2022-po1050-usr/T05
+Priečinok po zmene v parent: /home/marti/os2022-po1050-usr/T05/10
+
+Zmena priečinka v child procese sa neprejaví parent procese.

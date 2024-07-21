@@ -1,0 +1,11 @@
+obsah súboru infile pred spustením programu
+aáäbcčdďdzdžeéfghchiíjklĺľmnňoóôpqrŕsštťuúvwxyýzž
+
+
+Nastavenie kurzora o x znakov dopredu od zaciatku suboru a napisanie y znakov z
+Výpis programu:
+./a.out infile 10 5 A
+0:Success
+
+obsah súboru infile pred spustením programu
+aáäAAAAAAAAAAžeéfghchiíjklĺľmnňoóôpqrŕsštťuúvwxyýzž

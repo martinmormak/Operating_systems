@@ -1,0 +1,29 @@
+./parent Skuska ci parent a child proces maju rovnake argumenty poveloveho riadku
+Hodnoty argv v parent:
+./parent
+Skuska
+ci
+parent
+a
+child
+proces
+maju
+rovnake
+argumenty
+poveloveho
+riadku
+
+
+Hodnoty argv v child:
+./parent
+Skuska
+ci
+parent
+a
+child
+proces
+maju
+rovnake
+argumenty
+poveloveho
+riadku

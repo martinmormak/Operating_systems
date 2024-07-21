@@ -1,0 +1,5 @@
+Vypnutie bufrovania
+stty -icanon -echo
+
+Zapnutie bufrovania
+stty icanon echo

@@ -1,0 +1,8 @@
+obsah súboru infile pred spustením programu
+Skuska programu.
+
+
+Nastavenie kurzora o 10 znakov dopredu od zaciatku suboru v prvom deskriptore a výpis pozície v zduplikovanom deskriptore
+Výpis programu:
+./a.out infile 
+10

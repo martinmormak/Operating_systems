@@ -1,0 +1,5 @@
+./parent 
+Pôvodný getpid[3332]
+Pôvodný getppid[236]
+Nový getpid[3333]
+Nový getppid[85]

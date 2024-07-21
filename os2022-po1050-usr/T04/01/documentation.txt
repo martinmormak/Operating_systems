@@ -1,0 +1,10 @@
+Pri nastaveni prístupových práv je možne nastaviť aj user ID,group ID a sticky bit.
+
+Statický bit je indikovaný znakom t na poslednom mieste v zozname práv.
+Ak je tento príznak nastavený užívatelia nebudú môcť mazať súbory ktoré im nepatria.
+Jedným z adresár kde je tento bit nastavený je /tmp
+drwxrwxrwt 2 root root 4096 Oct 20 10:40 /tmp/
+
+suid (set user ID) zpôsobí že spustený program beží s právami ako jeho vlastníka, bez ohľadu na to, kto ho spustil.
+
+sgui (set group ID) spôsobí že program pobeží ako člen skupiny vlastniacej súbor, bez ohľadu na to, kto program spustil.

@@ -1,0 +1,4 @@
+Hodnota TCGETS je 0x5401
+Hodnota TCSETS je 0x5402
+
+Zdroj: https://sites.uclouvain.be/SystInfo/usr/include/asm-generic/ioctls.h.html

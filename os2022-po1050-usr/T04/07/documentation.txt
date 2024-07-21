@@ -1,0 +1,1 @@
+Pomocou prikazu newSet.c_lflag=~ICANON & ~ECHO; vieme nastaviť nekanonický režim a vypnuť vypis znakov.

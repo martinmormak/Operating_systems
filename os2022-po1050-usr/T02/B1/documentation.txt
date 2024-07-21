@@ -1,0 +1,1 @@
+Pri vačších súboroch je možné miesto funkcie lseek() možné použiť funkciu lseek64() ktorá podporuje súborý do 8 exbibajt-ov

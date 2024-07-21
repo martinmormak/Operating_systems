@@ -1,0 +1,43 @@
+Neexistujuci súbor, bez prepínača O_CREAT
+Pred spustením programu:
+ls
+a.out  documentation.txt  main.c
+Výpis programu:
+./a.out infile
+2:No such file or directory
+Po spustení programu:
+ls
+a.out  documentation.txt  main.c
+
+Existujuci súbor, bez prepínača O_CREAT
+Pred spustením programu:
+ls
+a.out  documentation.txt  infile  main.c
+Výpis programu:
+./a.out infile
+0:Success
+Po spustení programu:
+ls
+a.out  documentation.txt  infile  main.c
+
+Neexistujuci súbor, s prepínačom O_CREAT
+Pred spustením programu:
+ls
+a.out  documentation.txt  main.c
+Výpis programu:
+./a.out infile
+0:Success
+Po spustení programu:
+ls
+a.out  documentation.txt  infile  main.c
+
+Existujuci súbor, s prepínačom O_CREAT
+Pred spustením programu:
+ls
+a.out  documentation.txt  infile  main.c
+Výpis programu:
+./a.out infile
+0:Success
+Po spustení programu:
+ls
+a.out  documentation.txt  infile  main.c

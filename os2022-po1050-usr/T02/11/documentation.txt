@@ -1,0 +1,11 @@
+obsah súboru infile pred spustením programu
+aáäbcčdďdzdžeéfghchiíjklĺľmnňoóôpqrŕsštťuúvwxyýzž
+
+
+Nastavenie kurzora o 10 znakov dopredu od zaciatku suboru a napisanie 3x A
+Výpis programu:
+./a.out infile
+0:Success
+
+obsah súboru infile pred spustením programu
+aáäbcčdAAAzdžeéfghchiíjklĺľmnňoóôpqrŕsštťuúvwxyýz

@@ -1,0 +1,8 @@
+obsah súboru infile pred spustením programu
+Skuska programu.
+
+
+Nastavenie kurzora o 10 znakov dopredu od zaciatku suboru v prvom deskriptore a výpis pozície v prvom a zduplikovanom deskriptore, opetovné posunutie kurzora o 10 od aktuálnej pozície a výpis pozície v prvom a zduplikovanom deskriptore
+./a.out infile 
+first descriptor lseek:10       secound descriptor lseek:10
+first descriptor lseek:20       secound descriptor lseek:20

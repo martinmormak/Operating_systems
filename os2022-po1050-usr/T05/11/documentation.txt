@@ -1,0 +1,28 @@
+Obsah priečinka file 1:
+PARENT: AHOJ JA SOM RODICOVSKY PROCES KTORÝ PÍŠE DO SÚBORU
+PARENT: AHOJ JA SOM RODICOVSKY PROCES KTORÝ PÍŠE DO SÚBORU2
+child: ahoj ja som dcersky proces ktorý píše do súboru
+PARENT: AHOJ JA SOM RODICOVSKY PROCES KTORÝ PÍŠE DO SÚBORU3
+child: ahoj ja som dcersky proces ktorý píše do súboru2
+child: ahoj ja som dcersky proces ktorý píše do súboru3
+
+
+Obsah priečinka file 2:
+PARENT: AHOJ JA SOM RODICOVSKY PROCES KTORÝ PÍŠE DO SÚBORU
+PARENT: AHOJ JA SOM RODICOVSKY PROCES KTORÝ PÍŠE DO SÚBORU2
+PARENT: AHOJ JA SOM RODICOVSKY PROCES KTORÝ PÍŠE DO SÚBORU3
+child: ahoj ja som dcersky proces ktorý píše do súboru
+child: ahoj ja som dcersky proces ktorý píše do súboru2
+child: ahoj ja som dcersky proces ktorý píše do súboru3
+
+
+Obsah priečinka file 3:
+PARENT: AHOJ JA SOM RODICOVSKY PROCES KTORÝ PÍŠE DO SÚBORU
+child: ahoj ja som dcersky proces ktorý píše do súboru
+PARENT: AHOJ JA SOM RODICOVSKY PROCES KTORÝ PÍŠE DO SÚBORU2
+child: ahoj ja som dcersky proces ktorý píše do súboru2
+PARENT: AHOJ JA SOM RODICOVSKY PROCES KTORÝ PÍŠE DO SÚBORU3
+child: ahoj ja som dcersky proces ktorý píše do súboru3
+
+
+Obsah súboru file sa menil, vo väčsine súbor vyzeral ako je uvedené v prípade 1.

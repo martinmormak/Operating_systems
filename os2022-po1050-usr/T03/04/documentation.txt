@@ -1,0 +1,24 @@
+Výpis priečinku pomocou ls -l pred spustením programu
+ls -l
+total 28
+-rwxr-xr-x 1 marti marti 16128 Oct 16 12:36 a.out
+-rw-r--r-- 1 marti marti   382 Oct 16 12:30 documentation.txt
+-rw-r--r-- 1 marti marti    17 Oct 16 12:30 infile
+-rw-r--r-- 1 marti marti   588 Oct 16 12:36 main.c
+
+Výpis práv pomocou programu
+spustenie prvého prikazu prebehlo úspešne ./a.out infile a
+spustenie druhého prikazu prebehlo úspešne ./a.out b infile
+pri spustení tretieho príkazu nastala chyba keďže súbor c alebo súbor d sa v priečinku nenechádza
+./a.out c d
+error to make ln
+
+Výpis priečinku pomocou ls -l po spustení programu
+ls -l
+total 36
+-rw-r--r-- 3 marti marti    17 Oct 16 12:30 a
+-rwxr-xr-x 1 marti marti 16128 Oct 16 12:36 a.out
+-rw-r--r-- 3 marti marti    17 Oct 16 12:30 b
+-rw-r--r-- 1 marti marti   631 Oct 16 12:41 documentation.txt
+-rw-r--r-- 3 marti marti    17 Oct 16 12:30 infile
+-rw-r--r-- 1 marti marti   588 Oct 16 12:36 main.c

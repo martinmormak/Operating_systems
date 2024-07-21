@@ -1,0 +1,41 @@
+Čítanie po jendom znakou zo súboru až na jeho koniec
+Výpis programu:
+time ./a.out <infile2 >outfile
+0:Success
+
+real    0m1.204s
+user    0m0.080s
+sys     0m1.119s
+
+ls -l
+total 1836
+-rwxr-xr-x 1 marti marti  16232 Oct  9 11:26 a.out
+-rw-r--r-- 1 marti marti   8834 Oct  9 11:34 documentation.txt
+-rw-r--r-- 1 marti marti   2118 Oct  9 11:38 infile
+-rw-r--r-- 1 marti marti 921599 Oct  9 11:38 infile2
+-rw-r--r-- 1 marti marti    606 Oct  9 11:26 main.c
+-rw-r--r-- 1 marti marti 921599 Oct  9 11:43 outfile
+
+
+
+
+Čítanie po 1000 znakov zo súboru až na jeho koniec
+Výpis programu:
+time ./a.out <infile2 >outfile
+0:Success
+
+real    0m0.003s
+user    0m0.003s
+sys     0m0.000s
+
+ls -l
+total 1836
+-rwxr-xr-x 1 marti marti  16232 Oct  9 11:33 a.out
+-rw-r--r-- 1 marti marti   8588 Oct  9 11:41 documentation.txt
+-rw-r--r-- 1 marti marti   2118 Oct  9 11:28 infile
+-rw-r--r-- 1 marti marti 921599 Oct  9 11:39 infile2
+-rw-r--r-- 1 marti marti    626 Oct  9 11:33 main.c
+-rw-r--r-- 1 marti marti 921599 Oct  9 11:42 outfile
+
+Zdôvodnenie:
+Pri čítaní a zapisovaní po jednom znaku sa musí vickrát vykonať služba jadra open() a close() čo si vyžiada viac času pri behu programu, kdežto pri čítaní a zapisovaní vačšieho množstva znakov naraz ne potreba volania služieb open() a close() mänšia šo sa prejaví na kratšom čase vykonávania programu.

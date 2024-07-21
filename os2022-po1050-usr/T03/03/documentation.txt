@@ -1,0 +1,12 @@
+Výpis práv pomocou ls -l
+ls -l
+total 32
+-rwxr-xr-x 1 marti marti 16472 Oct 16 12:13 a.out
+-rw-r--r-- 1 marti marti   443 Oct 16 11:31 documentation.txt
+-rw-r--r-- 1 marti marti    17 Oct 16 11:31 infile
+-rw-r--r-- 1 marti marti  1468 Oct 16 12:13 main.c
+
+
+Výpis práv pomocou programu
+./a.out infile 
+-rw-r--r--      1       1000    1000    17      10      16      11:31   infile

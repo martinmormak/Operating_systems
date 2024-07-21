@@ -1,0 +1,7 @@
+Čítanie 20 znakov zo súboru
+infile:
+Skuska programu.
+
+Výpis programu:
+./a.out infile
+0:Success

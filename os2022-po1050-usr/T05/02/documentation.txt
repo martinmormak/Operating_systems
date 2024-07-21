@@ -1,0 +1,7 @@
+./parent
+Pôvodný process ID[2123]
+Pôvodný parnet process ID[236]
+Nový process ID[2123]
+Nový parnet process ID[236]
+
+Process ID a parent process ID pôvodného aj novospúšťaného programu sú rovnaké, keďže sme nevytvroili nový proces iba starému procesu sme priradili nový proces.

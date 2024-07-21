@@ -1,0 +1,21 @@
+Výpis pričinka pomocou ls -l
+ls -l
+total 32
+-rwxr-xr-x 1 marti marti 16560 Oct 16 14:20 a.out
+-rw-r--r-- 1 marti marti   584 Oct 16 14:08 documentation.txt
+-rw-r--r-- 1 marti marti    17 Oct 16 13:56 infile
+-rw-r--r-- 1 marti marti  1785 Oct 16 14:20 main.c
+
+
+Výpis práv pomocou programu
+./a.out .
+Directory of /home/marti/os2022-po1050-usr/T03/08
+
+09/16/0122      14:21           730     documentation.txt
+09/16/0122      14:21           16560   a.out
+09/16/0122      13:56           17      infile
+09/16/0122      11:07   <DIR>           ..
+09/16/0122      14:21   <DIR>           .
+09/16/0122      14:21           1798    main.c
+                        4 File(s)       19105 bytes
+                        2 Dir(s)        8192 bytes free

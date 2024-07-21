@@ -1,0 +1,89 @@
+Neexistujuci súbor, s právami 0644
+Pred spustením programu:
+ls -l
+total 24
+-rwxr-xr-x 1 marti marti 16264 Oct  7 19:05 a.out
+-rw-r--r-- 1 marti marti  1436 Oct  7 19:02 documentation.txt
+-rw-r--r-- 1 marti marti   547 Oct  7 19:04 main.c
+Výpis programu:
+./a.out infile
+0:Success
+Po spustení programu:
+ls -l
+total 24
+-rwxr-xr-x 1 marti marti 16264 Oct  7 19:05 a.out
+-rw-r--r-- 1 marti marti   414 Oct  7 19:05 documentation.txt
+-rw-r--r-- 1 marti marti     0 Oct  7 19:06 infile
+-rw-r--r-- 1 marti marti   547 Oct  7 19:04 main.c
+
+Neexistujuci súbor, s právami 0640
+Pred spustením programu:
+ls -l
+total 24
+-rwxr-xr-x 1 marti marti 16264 Oct  7 19:07 a.out
+-rw-r--r-- 1 marti marti   831 Oct  7 19:06 documentation.txt
+-rw-r--r-- 1 marti marti   547 Oct  7 19:06 main.c
+Výpis programu:
+./a.out infile
+0:Success
+Po spustení programu:
+ls -l
+total 24
+-rwxr-xr-x 1 marti marti 16264 Oct  7 19:07 a.out
+-rw-r--r-- 1 marti marti  1019 Oct  7 19:07 documentation.txt
+-rw-r----- 1 marti marti     0 Oct  7 19:07 infile
+-rw-r--r-- 1 marti marti   547 Oct  7 19:06 main.c
+
+Neexistujuci súbor, s právami 0604
+Pred spustením programu:
+ls -l
+total 24
+-rwxr-xr-x 1 marti marti 16264 Oct  7 19:08 a.out
+-rw-r--r-- 1 marti marti  1248 Oct  7 19:08 documentation.txt
+-rw-r--r-- 1 marti marti   547 Oct  7 19:08 main.c
+Výpis programu:
+./a.out infile
+0:Success
+Po spustení programu:
+ls -l
+total 24
+-rwxr-xr-x 1 marti marti 16264 Oct  7 19:08 a.out
+-rw-r--r-- 1 marti marti  1436 Oct  7 19:08 documentation.txt
+-rw----r-- 1 marti marti     0 Oct  7 19:08 infile
+-rw-r--r-- 1 marti marti   547 Oct  7 19:08 main.c
+
+Neexistujuci súbor, s právami 0600
+Pred spustením programu:
+ls -l
+total 24
+-rwxr-xr-x 1 marti marti 16264 Oct  7 19:09 a.out
+-rw-r--r-- 1 marti marti  1665 Oct  7 19:09 documentation.txt
+-rw-r--r-- 1 marti marti   547 Oct  7 19:09 main.c
+Výpis programu:
+./a.out infile
+0:Success
+Po spustení programu:
+ls -l
+total 24
+-rwxr-xr-x 1 marti marti 16264 Oct  7 19:09 a.out
+-rw-r--r-- 1 marti marti  1956 Oct  7 19:10 documentation.txt
+-rw------- 1 marti marti     0 Oct  7 19:10 infile
+-rw-r--r-- 1 marti marti   547 Oct  7 19:09 main.c
+
+Neexistujuci súbor, s právami 0000
+Pred spustením programu:
+ls -l
+total 24
+-rwxr-xr-x 1 marti marti 16264 Oct  7 19:10 a.out
+-rw-r--r-- 1 marti marti  2374 Oct  7 19:12 documentation.txt
+-rw-r--r-- 1 marti marti   547 Oct  7 19:12 main.c
+Výpis programu:
+./a.out infile
+0:Success
+Po spustení programu:
+ls -l
+total 24
+-rwxr-xr-x 1 marti marti 16264 Oct  7 19:13 a.out
+-rw-r--r-- 1 marti marti  2374 Oct  7 19:13 documentation.txt
+---------- 1 marti marti     0 Oct  7 19:13 infile
+-rw-r--r-- 1 marti marti   547 Oct  7 19:12 main.c
